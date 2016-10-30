@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <style>
+        .tab {
+            border-radius: 5px;
+        }
+    </style>
+</head>
+
+<body>
+    <forms>
+        <table border="1" cellspacing="0" class="tab">
+            <tr>
+                <th colspan="2"><a href="#">Apple Toshiba Lenovo Dell Asus Acer HP</a></th>
+            </tr>
+            <tr>
+                <td>
+                    <table>
+                        <tr>
+                            <td>
+                                <table border="1" cellspacing="0">
+                                    <tr>
+                                        <td>
+                                            <table>
+                                                <td>
+                                                    <fieldset>
+                                                        <table>
+                                                            <legend>Apple MacBook Air</legend>
+                                                            <tr>
+                                                                <td rowspan="2"><img src="http://www.notebookcheck.net/uploads/tx_nbc2/design_unibody2_20101020_01.png" width="75px"></td>
+                                                                <td>64GB SSD</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>2GB DDR</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>1300USD</td>
+                                                                <td>Intel Core i5</td>
+                                                            </tr>
+                                                        </table>
+                                                    </fieldset>
+                                                    <fieldset>
+                                                        <table>
+                                                            <legend>Apple MacBook Air</legend>
+                                                            <tr>
+                                                                <td rowspan="2"><img src="http://www.notebookcheck.net/uploads/tx_nbc2/design_unibody2_20101020_01.png" width="75px"></td>
+                                                                <td>64GB SSD</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>2GB DDR</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>1300USD</td>
+                                                                <td>Intel Core i5</td>
+                                                            </tr>
+                                                        </table>
+                                                    </fieldset>
+                                                    <fieldset>
+                                                        <table>
+                                                            <legend>Apple MacBook Air</legend>
+                                                            <tr>
+                                                                <td rowspan="2"><img src="http://www.notebookcheck.net/uploads/tx_nbc2/design_unibody2_20101020_01.png" width="75px"></td>
+                                                                <td>64GB SSD</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>2GB DDR</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>1300USD</td>
+                                                                <td>Intel Core i5</td>
+                                                            </tr>
+                                                        </table>
+                                                    </fieldset>
+                                                </td>
+                                                <td>
+                                                    <fieldset>
+                                                        <table>
+                                                            <legend>Apple MacBook Air</legend>
+                                                            <tr>
+                                                                <td rowspan="2"><img src="http://www.notebookcheck.net/uploads/tx_nbc2/design_unibody2_20101020_01.png" width="75px"></td>
+                                                                <td>64GB SSD</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>2GB DDR</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>1300USD</td>
+                                                                <td>Intel Core i5</td>
+                                                            </tr>
+                                                        </table>
+                                                    </fieldset>
+                                                    <fieldset>
+                                                        <table>
+                                                            <legend>Apple MacBook Air</legend>
+                                                            <tr>
+                                                                <td rowspan="2"><img src="http://www.notebookcheck.net/uploads/tx_nbc2/design_unibody2_20101020_01.png" width="75px"></td>
+                                                                <td>64GB SSD</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>2GB DDR</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>1300USD</td>
+                                                                <td>Intel Core i5</td>
+                                                            </tr>
+                                                        </table>
+                                                    </fieldset>
+                                                    <fieldset>
+                                                        <table>
+                                                            <legend>Apple MacBook Air</legend>
+                                                            <tr>
+                                                                <td rowspan="2"><img src="http://www.notebookcheck.net/uploads/tx_nbc2/design_unibody2_20101020_01.png" width="75px"></td>
+                                                                <td>64GB SSD</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>2GB DDR</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>1300USD</td>
+                                                                <td>Intel Core i5</td>
+                                                            </tr>
+                                                        </table>
+                                                    </fieldset>
+                                                </td>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                            <td>
+                                Min price: 500USD
+                                <br />
+                                <input type="range" name="min" />
+                                <br /> Max price: 1500USD
+                                <br />
+                                <input type="range" name="max" />
+                                <br /> Min RAM: 4GB
+                                <br />
+                                <input type="range" name="minRam" />
+                                <br /> Max RAM: 16GB
+                                <br />
+                                <input type="range" name="maxRam" />
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </forms>
+</body>
+
+</html>
